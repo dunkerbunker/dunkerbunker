@@ -1,4 +1,4 @@
-[![MasterHead](./banner.jpg)](https://yoosuf-sayyid.netlify.app/)
+[![MasterHead](./ban.jpg)](https://yoosuf-sayyid.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Yoosuf Sayyid</h1>
 <h3 align="center">A passionate developer from the Maldives🏝️. Finding my focus.</h3>
