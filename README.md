@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yoosuf Sayyid</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;4%2B+Years+of+Coding+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=628fdb&vCenter=true&size=22"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Yoosuf Sayyid
+  <br />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;4%2B+Years+of+Coding+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=628fdb&vCenter=true&size=22"></a>
+  </p>
+</h1>
 
 <h3 align="center">
   A passionate developer from the Maldives🏝️. Finding my focus.
