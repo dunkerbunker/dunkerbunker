@@ -1,4 +1,6 @@
-[![MasterHead](./ban.gif)](https://yoosuf-sayyid.netlify.app/)
+<a>
+  <img src="./ban.gif" />
+</a>
 
 <h1 align="center">Hi 👋, I'm Yoosuf Sayyid</h1>
 
