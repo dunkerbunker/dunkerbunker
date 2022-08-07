@@ -5,10 +5,8 @@
 <h1 align="center">Hi 👋, I'm Yoosuf Sayyid</h1>
 
 <h3 align="center">
-  A passionate developer from the Maldives🏝️. Finding my focus.
+  A passionate developer from the Maldives🏝️. Finding my focus. <img src="https://komarev.com/ghpvc/?username=dunkebunker&label=Profile%20views&color=0e75b6&style=flat" alt="dunkerbunker" />
 </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dunkebunker&label=Profile%20views&color=0e75b6&style=flat" alt="dunkerbunker" /> </p>
 
 <br />
 
