@@ -8,6 +8,8 @@
   A passionate developer from the Maldives🏝️. Finding my focus.
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dunkebunker&label=Profile%20views&color=0e75b6&style=flat" alt="dunkerbunker" /> </p>
+
 <br />
 
 - 🔭 I’m currently a student at [Cyryx](https://cyryxcollege.edu.mv/) 
@@ -21,10 +23,6 @@
 - 📫 Reach me at **YoosufSayyidWork@gmail.com** 
 
 - ⚡ Fun fact **Coca-Cola was originally green.**
-
-<br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dunkebunker&label=Profile%20views&color=0e75b6&style=flat" alt="dunkerbunker" /> </p>
 
 <br />
 
