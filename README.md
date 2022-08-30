@@ -346,18 +346,19 @@
 <br />
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dunkerbunker&show_icons=true&locale=en&layout=compact&theme=radical"
-    alt="dunkerbunker"
-  />
-  <img
-    height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dunkerbunker&theme=dark)](https://git.io/streak-stats"
-    alt="dunkerbunker"
-  />
+    <img 
+      height="140px" 
+      src="https://github-readme-stats.vercel.app/api?username=dunkerbunker&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" 
+    />
+    <img 
+      height="140px" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=dunkerbunker&hide_border=true&theme=dark" 
+    />
+    <img 
+      height="140px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunkerbunker&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" 
+    />
 </p>
 
 <br />
 <br />
-
