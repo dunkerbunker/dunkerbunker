@@ -8,7 +8,16 @@
   A passionate developer from the Maldives🏝️. Finding my focus.
 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dunkebunker&label=Profile%20views&color=0e75b6&style=flat" alt="dunkerbunker" /> </p>
+<p align="center"> 
+  <a href="https://github.com/dunkerbunker?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/dunkerbunker"/>
+  </a>
+  <a href="https://github.com/dunkerbunker/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=dunkerbunker&style=for-the-badge&color=lightgrey"/>
+  </a>
+</p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/dunkerbunker/dunkerbunker/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dunkerbunker/dunkerbunker/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
 
