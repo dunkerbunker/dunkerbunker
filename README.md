@@ -8,6 +8,8 @@
   A passionate developer from the Maldives🏝️. Finding my focus.
 </h3>
 
+<br />
+
 <p align="center"> 
   <a href="https://github.com/dunkerbunker?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/dunkerbunker"/>
@@ -343,10 +345,15 @@
 <br />
 <br />
 
-<p>
+<p align="center">
   <img
-    align="center"
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dunkerbunker&show_icons=true&locale=en&layout=compact&theme=radical"
+    alt="dunkerbunker"
+  />
+  <img
+    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dunkerbunker&theme=dark)](https://git.io/streak-stats"
     alt="dunkerbunker"
   />
 </p>
@@ -354,5 +361,3 @@
 <br />
 <br />
 
-[![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=dunkerbunker&theme=dark)](https://git.io/streak-stats)
