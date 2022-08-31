@@ -35,6 +35,10 @@
 
 - ⚡ Fun fact **Coca-Cola was originally green.**
 
+```diff
+- 🔭 I’m currently a student at [Cyryx](https://cyryxcollege.edu.mv/)
+```
+
 <br />
 
 <h3 align="left">Connect with me:</h3>
