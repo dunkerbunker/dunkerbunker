@@ -23,20 +23,15 @@
 
 <br />
 
-- 🔭 I’m currently a student at [Cyryx](https://cyryxcollege.edu.mv/)
 
-- 🌱Currently self-learning **React JS**
-
-- 📄 Know more about me via -> [My CV](https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing)
-
-- 📝 Check out my portfolio at [https://yoosuf-sayyid.netlify.app/](https://yoosuf-sayyid.netlify.app/)
-
-- 📫 Reach me at **YoosufSayyidWork@gmail.com**
-
-- ⚡ Fun fact **Coca-Cola was originally green.**
 
 ```diff
-- 🔭 I’m currently a student at [Cyryx](https://cyryxcollege.edu.mv/)
+- 🔭 I’m currently a student at Cyryx
+- 🌱Currently self-learning react js
+- 📄 Know more about me via my cv
+- 📝 Check out my portfolio at yo
+- 📫 Reach me at
+- ⚡ Fun fact coca-cola was originally green.
 ```
 
 <br />
