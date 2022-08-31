@@ -37,6 +37,10 @@
 
 <br />
 
+<a href="https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing">
+    <img alt="cv" title="cv" src="https://cdn-icons-png.flaticon.com/512/3135/3135686.png"/>
+  </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/yoosuf_sayyid" target="blank"
@@ -360,17 +364,15 @@
     />
 </p>
 
-<!-- <details> 
-  <summary>💻 Secret</summary>
-  <br/>
+<!--
     ```diff
-- 🔭 I’m currently a student at Cyryx
-- 🌱Currently self-learning react js
-- 📄 Know more about me via my cv
-- 📝 Check out my portfolio at yo
-- 📫 Reach me at
-- ⚡ Fun fact coca-cola was originally green.
+ 🔭 I’m currently a student at Cyryx
+ 🌱Currently self-learning react js
+ 📄 Know more about me via my resume below
+ 📝 Check out my portfolio at https://yoosuf-sayyid.netlify.app/
+ 📫 Reach me at YoosufSayyidWork@gmail.com
+ ⚡ Fun fact coca-cola was originally green.
 ```
-</details> -->
+ -->
 <br />
 <br />
