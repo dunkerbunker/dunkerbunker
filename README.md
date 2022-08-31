@@ -23,7 +23,7 @@
 
 <br />
 
-- 🔭 I’m currently a student at [Cyryx](https://cyryxcollege.edu.mv/)
+<!-- - 🔭 I’m currently a student at [Cyryx](https://cyryxcollege.edu.mv/)
 
 - 🌱Currently self-learning **React JS**
 
@@ -33,15 +33,36 @@
 
 - 📫 Reach me at **YoosufSayyidWork@gmail.com**
 
-- ⚡ Fun fact **Coca-Cola was originally green.**
+- ⚡ Fun fact **Coca-Cola was originally green.** -->
+
+
+```diff
+
+ 🔭 I’m currently a student at Cyryx
+ 🌱Currently self-learning react js
+ 📄 Know more about me via my resume below
+ 📝 Check out my portfolio at https://yoosuf-sayyid.netlify.app/
+ 📫 Reach me at YoosufSayyidWork@gmail.com
+ ⚡ Fun fact coca-cola was originally green.
+ 
+```
 
 <br />
 
 <p align="center"> 
   <a href="https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing">
-    <img alt="cv" title="cv" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="60" width="60"/>
+    <img alt="cv" title="Check out my CV!" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="60" width="60"/>
+  </a>
+  
+  <a href="https://yoosuf-sayyid.netlify.app/">
+    <img alt="website" title="Check out my website!" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="60" width="60"/>
+  </a>
+
+  <a href="mailto:yoosufsayyidwork@gmail.com">
+    <img alt="email" title="Click to email me" src="https://cdn-icons-png.flaticon.com/512/726/726623.png" height="60" width="60"/>
   </a>
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/yoosuf_sayyid" target="blank"
@@ -365,15 +386,7 @@
     />
 </p>
 
-<!--
-    ```diff
- 🔭 I’m currently a student at Cyryx
- 🌱Currently self-learning react js
- 📄 Know more about me via my resume below
- 📝 Check out my portfolio at https://yoosuf-sayyid.netlify.app/
- 📫 Reach me at YoosufSayyidWork@gmail.com
- ⚡ Fun fact coca-cola was originally green.
-```
- -->
+
+
 <br />
 <br />
