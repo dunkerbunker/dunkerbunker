@@ -38,7 +38,7 @@
 <br />
 
 <a href="https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing">
-    <img alt="cv" title="cv" src="https://cdn-icons-png.flaticon.com/512/3135/3135686.png"/>
+    <img alt="cv" title="cv" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="40" width="30"/>
   </a>
 
 <h3 align="left">Connect with me:</h3>
