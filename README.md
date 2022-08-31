@@ -37,10 +37,11 @@
 
 <br />
 
-<a href="https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing">
-    <img alt="cv" title="cv" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="40" width="30"/>
+<p align="center"> 
+  <a href="https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing">
+    <img alt="cv" title="cv" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="40" width="40"/>
   </a>
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/yoosuf_sayyid" target="blank"
