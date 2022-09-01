@@ -52,11 +52,11 @@
   <a href="https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing">
     <img alt="cv" title="Check out my CV!" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="40" width="40"/>
   </a>
-  &nbsp;
+  &nbsp; &nbsp;
   <a href="https://yoosuf-sayyid.netlify.app/">
     <img alt="website" title="Check out my website!" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="40" width="40"/>
   </a>
-  &nbsp;
+  &nbsp; &nbsp;
   <a href="mailto:yoosufsayyidwork@gmail.com">
     <img alt="email" title="Click to email me" src="https://cdn-icons-png.flaticon.com/512/726/726623.png" height="40" width="40"/>
   </a>
