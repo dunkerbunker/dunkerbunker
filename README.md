@@ -37,29 +37,29 @@
 
 
 ```diff
-
+.
  🔭 I’m currently a student at Cyryx
  🌱Currently self-learning react js
  📄 Know more about me via my resume below
  📝 Check out my portfolio at https://yoosuf-sayyid.netlify.app/
  📫 Reach me at YoosufSayyidWork@gmail.com
  ⚡ Fun fact coca-cola was originally green.
- 
+.
 ```
 
 <br />
 
 <p align="center"> 
   <a href="https://drive.google.com/drive/folders/1DMVJsqfSHL2YN5cXxODIq3zQF0XmdRt2?usp=sharing">
-    <img alt="cv" title="Check out my CV!" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="60" width="60"/>
+    <img alt="cv" title="Check out my CV!" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" height="40" width="40"/>
   </a>
-  
+  <div height="20" width="20"></div>
   <a href="https://yoosuf-sayyid.netlify.app/">
-    <img alt="website" title="Check out my website!" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="60" width="60"/>
+    <img alt="website" title="Check out my website!" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="40" width="40"/>
   </a>
-
+  <div height="20" width="20"></div>
   <a href="mailto:yoosufsayyidwork@gmail.com">
-    <img alt="email" title="Click to email me" src="https://cdn-icons-png.flaticon.com/512/726/726623.png" height="60" width="60"/>
+    <img alt="email" title="Click to email me" src="https://cdn-icons-png.flaticon.com/512/726/726623.png" height="40" width="40"/>
   </a>
 </p>
 
