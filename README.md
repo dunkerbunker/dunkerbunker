@@ -1,5 +1,5 @@
 <a>
-  <img src="./ban2.gif" />
+  <img src="./VideoBanner.gif" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Yoosuf Sayyid</h1>
