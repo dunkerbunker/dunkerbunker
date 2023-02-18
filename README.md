@@ -37,8 +37,8 @@
 
 ```diff
 .
- 🔭 I’m currently a student at Cyryx
- 🌱Currently self-learning react js
+ 🔭 Student at Cyryx & Working at Ooredoo Maldives
+ 🌱 Currently self-learning NEXT and Ericcson Charging System
  📄 Know more about me via my resume below
  📝 Check out my portfolio at https://yoosuf-sayyid.netlify.app/
  📫 Reach me at YoosufSayyidWork@gmail.com
