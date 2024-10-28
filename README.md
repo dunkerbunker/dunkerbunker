@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Yoosuf Sayyid</h1>
 
 <h3 align="center">
-  A passionate developer from the Maldives🏝️. Finding my focus.
+  A not passionate developer from the Maldives🏝️. Development is mid.
 </h3>
 
 <br />
